@@ -1,0 +1,46 @@
+#content {
+    margin-left: 17%;
+}
+
+#text {
+    text-align: justify;
+    width: 1250px;
+}
+
+table, td, th {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+td, th {
+    text-align: center;
+}
+
+#firstSemester, #secondSemester {
+    margin-bottom: 20px;
+    margin-left: 10%;
+    width: 80%;
+}
+
+
+#tables {
+    width: 100%;
+}
+
+.aula {
+    width: 10%;
+}
+
+.horario {
+    width: 5%;
+}
+
+#tableTitle {
+    background-color: black;
+    color: white;
+}
+
+.days {
+    background-color: black;
+    color: white;
+}
